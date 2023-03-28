@@ -9,10 +9,8 @@
 
 ### Algortihms Used
 
-1. Logistic Regression
-2. Support Vector Machine
-3. Random Forest Classifier 
-4. Naivye Bayes
+1. Random Forest Classifier 
+2. K-Nearest Neighbors Algorithm
 
 ### Model Evaluation Methods Used
 
